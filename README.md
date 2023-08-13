@@ -14,6 +14,8 @@
 
 <h3 align="center">「 Pemula Bang😁😋 」</h3>
 
+<img align="right" alt="coding" width="400" src="https://gfycat.com/amp/kinddistortedirrawaddydolphin-coding-gif">
+
 ### Hiasan Doang Jgn dipencet😁😋
 
 
