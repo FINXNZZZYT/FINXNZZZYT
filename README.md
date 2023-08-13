@@ -2,9 +2,9 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=FINXNZZZYT&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-### ╔════════════════════════════════════════╗
-### ║_________________[FINXNZZZYT]__________________║
-### ╚════════════════════════════════════════╝
+### ╔════════════════════════════════════════
+### ║_________________[FINXNZZZYT]__________________
+### ╚════════════════════════════════════════
 
 <h1 align="center">「 Hi There!, I'm FINXNZZZYT 」</h1>
 <h2 align="center">
