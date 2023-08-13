@@ -155,9 +155,13 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/@FINXNZZZYT"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="@FINXNZZZYT" /></a><a href="https://ko-fi.com/@FINXNZZZYT"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="@FINXNZZZYT" /></a></p><br><br>
 
+### ____
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=finxnzzzyt&show_icons=true&locale=en&layout=compact" alt="finxnzzzyt" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=finxnzzzyt&show_icons=true&locale=en" alt="finxnzzzyt" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=finxnzzzyt&" alt="finxnzzzyt" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=finxnzzzyt&show_icons=true&locale=en" alt="finxnzzzyt" /></p>
+
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=finxnzzzyt&" alt="finxnzzzyt" /></p>
 
