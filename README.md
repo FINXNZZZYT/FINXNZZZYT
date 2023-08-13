@@ -22,16 +22,16 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://FINXNZZZYT.com">Saif FINXNZZZYT</a></b>
+                <b><a target="_blank" href="https://FINXNZZZYT.com">FINXNZZZYT</a></b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Saif+Al+Siam">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=Youtube+FINXNZZZYT">「 Google Me 」</a>
     <br>
-    「 I am a full stack web appplication developer from <b>Bangladesh</b> 」
+    「 I am a Pemula😁😋 from <b>INDONESIA</b> 」> 」
     <br>
     <br>
   </samp>
@@ -41,7 +41,7 @@
  <a href="https://FINXNZZZYT.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="FINXNZZZYT" />
  </a>
- <a href="https://linkedin.com/in/saifFINXNZZZYT" target="_blank">
+ <a href="https://saweria.co/FINXNZZZYT" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="FINXNZZZYT"/>
  </a>
  <a href="https://dev.to/FINXNZZZYT" target="_blank">
@@ -67,7 +67,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: FINXNZZZYT.dev@gmail.com<br/><br/>
+ 📧 &emsp; Dahlah😁 <br/><br/>/>
  💬 &emsp; Ask me about anything [here](https://github.com/FINXNZZZYT/FINXNZZZYT/issues)
 
 </p>
@@ -133,5 +133,3 @@
   <br/>
 </a>
 
-
-![FINXNZZZYT's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=FINXNZZZYT&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
