@@ -17,7 +17,7 @@
 ### Hiasan Doang Jgn dipencet😁😋
 
 
-\n
+
 <p align="center">
  <a href="https://FINXNZZZYT.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="FINXNZZZYT" />
@@ -39,6 +39,9 @@
   </a> 
 </p>
 <br />
+
+<p>
+ <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=finxnzzzyt" alt="finxnzzzyt" /></a> </p>
 
