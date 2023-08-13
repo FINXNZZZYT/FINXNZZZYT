@@ -67,7 +67,7 @@
 
 - ⚡ Fun fact **apacoba 😁**
 
-### Blogs post
+### Subscribe:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 <a href="https://www.youtube.com/@FINXNZZZYT"><img align="center" src='https://raw.githubusercontent.com/FINXNZZZYT/FINXNZZZYT/main/tweetfakegithub.png.webp' alt="FINXNZZZYT"></img>
