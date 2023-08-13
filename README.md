@@ -67,6 +67,7 @@
   
 <br> Belum Jadi bang 😁 <br/>
 <br> Pake Aja udah Script nya Jangan pencet² Link😁 <br/>
+
  💬 &emsp; Ask me about anything [here](https://github.com/FINXNZZZYT/FINXNZZZYT/issues)
 
 </p>
