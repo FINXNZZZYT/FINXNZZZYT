@@ -14,7 +14,7 @@
 
 <h3 align="center">「 Pemula Bang😁😋 」</h3>
 
-### Hiasan Doang Jgn dipencet😁😋
+### Hiasan Doang Jgn dipencet
 
 
 
@@ -67,7 +67,7 @@
 
 - ⚡ Fun fact **apacoba 😁**
 
-### Blogs posts
+### Blogs posts [Cuma Hiasan]
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
