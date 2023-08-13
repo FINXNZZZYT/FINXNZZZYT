@@ -65,8 +65,8 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
-<br> Belum Jadi bang 😁 
-Pake Aja udah Script nya Jangan pencet²😁 <br/><br/>/>
+<br> Belum Jadi bang 😁 <br/>
+<br> Pake Aja udah Script nya Jangan pencet²😁 <br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/FINXNZZZYT/FINXNZZZYT/issues)
 
 </p>
