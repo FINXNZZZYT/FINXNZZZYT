@@ -16,8 +16,6 @@
 
 <h3 align="center">「 Pemula Bang😁😋 」</h3>
 
-<img align="center" src='https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966' alt="FINXNZZZYT"></img>
-
 ### link:
 
 
@@ -42,6 +40,8 @@
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=finxnzzzyt" alt="finxnzzzyt" /></a> </p>
+
+<img align="center" src='https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966' alt="FINXNZZZYT"></img>
 
 <img src="https://img.shields.io/twitter/follow/finxnzzzyt?logo=twitter&style=for-the-badge" alt="finxnzzzyt" /></a> </p>
 
