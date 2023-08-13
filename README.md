@@ -1,4 +1,7 @@
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)  <a href="https://komarev.com/ghpvc/?username=FINXNZZZYT">
+  <img align="right" src="https://komarev.com/ghpvc/?username=FINXNZZZYT&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
+
 <h1 align="center">「 Hi There!, I'm FINXNZZZYT 」</h1>
 <h2 align="center">
   Welcome to FINXNZZZYT World!
@@ -8,10 +11,6 @@
 <p align="center">
   <a href="https://github.com/FINXNZZZYT"><img src="https://readme-typing-svg.herokuapp.com/?lines=Apa%20Coba%20😁;Aku%20Mah%20Pemula🥺;Ajarin%20Aku%20Dong%20puh%20sepuh🥺&center=true&width=380&height=45"></a>
 </p>
-
-<a href="https://komarev.com/ghpvc/?username=FINXNZZZYT">
-  <img align="right" src="https://komarev.com/ghpvc/?username=FINXNZZZYT&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
 
 <h3 align="center">「 Pemula Bang😁😋 」</h3>
 
