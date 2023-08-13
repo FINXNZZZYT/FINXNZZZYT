@@ -1,5 +1,5 @@
 <img align="center" src='https://github.com/FINXNZZZYT/FINXNZZZYT/blob/main/banner2.png' alt="FINXNZZZYT"></img>
-<img align="center" src='https://github.com/FINXNZZZYT/FINXNZZZYT/blob/main/Github_Banner.jpg' alt="FINXNZZZYT"></img>
+<img align="right" src='https://github.com/FINXNZZZYT/FINXNZZZYT/blob/main/Github_Banner.jpg' alt="FINXNZZZYT"></img>
 
 
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)  <a href="https://komarev.com/ghpvc/?username=FINXNZZZYT">
