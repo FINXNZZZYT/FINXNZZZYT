@@ -6,7 +6,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/FINXNZZZYT"><img src="https://readme-typing-svg.herokuapp.com/?lines=Apa%20Coba%20😁;Aku%20Mah%20Pemula🥺;Ajarin20%Aku20%puh20%sepuh🥺&center=true&width=380&height=45"></a>
+  <a href="https://github.com/FINXNZZZYT"><img src="https://readme-typing-svg.herokuapp.com/?lines=Apa%20Coba%20😁;Aku%20Mah%20Pemula🥺;Ajarin%20Aku%20Dong%20puh%20sepuh🥺&center=true&width=380&height=45"></a>
 </p>
 
 <a href="https://komarev.com/ghpvc/?username=FINXNZZZYT">
