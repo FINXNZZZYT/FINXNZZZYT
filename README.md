@@ -31,7 +31,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Youtube+FINXNZZZYT">「 Google Me 」</a>
     <br>
-    「 I am a Pemula😁😋 from <b>INDONESIA</b> 」> 」
+    「 Pemula😁😋 from <b>INDONESIA</b> 」
     <br>
     <br>
   </samp>
@@ -65,7 +65,8 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
-Belum Jadi bang 😁 Pake Aja udah Script nya Jangan pencet readme😁 <br/><br/>/>
+<br> Belum Jadi bang 😁 
+Pake Aja udah Script nya Jangan pencet²😁 <br/><br/>/>
  💬 &emsp; Ask me about anything [here](https://github.com/FINXNZZZYT/FINXNZZZYT/issues)
 
 </p>
