@@ -1,7 +1,6 @@
 <img align="center" src='https://github.com/FINXNZZZYT/FINXNZZZYT/blob/main/banner2.png' alt="FINXNZZZYT"></img>
 
 <img align="center" src='https://github.com/FINXNZZZYT/FINXNZZZYT/blob/main/githubpagefn.gif' alt="FINXNZZZYT"></img>
-<a href="https://www.youtube.com/@FINXNZZZYT"><img align="center" src='https://raw.githubusercontent.com/FINXNZZZYT/FINXNZZZYT/main/tweetfakegithub.png.webp' alt="FINXNZZZYT"></img>
 
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)  <a href="https://komarev.com/ghpvc/?username=FINXNZZZYT">
   <img align="right" src="https://komarev.com/ghpvc/?username=FINXNZZZYT&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
@@ -71,6 +70,8 @@
 ### Blogs post
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+<a href="https://www.youtube.com/@FINXNZZZYT"><img align="center" src='https://raw.githubusercontent.com/FINXNZZZYT/FINXNZZZYT/main/tweetfakegithub.png.webp' alt="FINXNZZZYT"></img>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="finxnzzzyt" height="30" width="40" /></a>
