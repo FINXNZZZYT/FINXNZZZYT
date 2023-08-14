@@ -2,9 +2,9 @@
 
 <img align="center" src='https://github.com/FINXNZZZYT/FINXNZZZYT/blob/main/githubpagefn.gif' alt="FINXNZZZYT"></img>
 
-![wakatime](https://github.com/FINXNZZZYT/FINXNZZZYT/blob/main/time.jpg)
+![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)
   <a href="https://komarev.com/ghpvc/?username=FINXNZZZYT">
-  <img align="right" src="https://github.com/FINXNZZZYT/FINXNZZZYT/blob/main/visitorgithub.jpg" alt="Profile visitor" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 
@@ -21,9 +21,6 @@
 </p>
 
 <h3 align="center">「 Pemula Bang😁😋 」</h3>
-
-![Discourse Community](https://img.shields.io/badge/discourse-community-brightgreen.svg?style=flat)
-![Discord Server](https://discordapp.com/api/guilds/324979738533822464/embed.png)
 
 
 ### link:
@@ -45,6 +42,10 @@
   </a> 
 </p>
 <br />
+
+![Discourse Community](https://img.shields.io/badge/discourse-community-brightgreen.svg?style=flat)
+![Discord Server](https://discordapp.com/api/guilds/324979738533822464/embed.png)
+NYARI **APANIH?😁😋** <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="30px"><img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Designer.gif" width="30px">,
 
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
