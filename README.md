@@ -230,7 +230,7 @@ My 2021 GitHub Skyline                    - https://skyline.github.com/FINXNZZZY
   <summary><b>Thx to (Github account)</b></summary><br>
 <div align="center">
 
-![rudrabarad](https://github.com/alsiam)
+![alsiam](https://github.com/alsiam)
 
 ![rudrabarad](https://github.com/rudrabarad)
 
