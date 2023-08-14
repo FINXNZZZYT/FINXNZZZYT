@@ -22,7 +22,7 @@
 
 <h3 align="center">「 Pemula Bang😁😋 」</h3>
 
-
+##
 ### link:
 
 
@@ -149,7 +149,10 @@ Bener ga bang? ya ga lah😁
 <br/>
 
 ## Top Open Source -
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=FINXNZZZYT&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/FINXNZZZYT/web-projects)
+[![FINXNZZZYT Folio](https://github-readme-stats.vercel.app/api/pin/?username=FINXNZZZYT&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/FINXNZZZYT/al-folio)
 [![FINXNZZZYT Readme](https://github-readme-stats.vercel.app/api/pin/?username=FINXNZZZYT&repo=FINXNZZZYT&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/FINXNZZZYT/FINXNZZZYT)
+[![FINXNZZZYT Teminal](https://github-readme-stats.vercel.app/api/pin/?username=FINXNZZZYT&repo=FINXNZZZYT.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/FINXNZZZYT/FINXNZZZYT.github.io)
 
 <p align="left">
   <a href="https://github.com/FINXNZZZYT?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -222,3 +225,26 @@ My 2021 GitHub Skyline                    - https://skyline.github.com/FINXNZZZY
 </div>  
 </details>
 
+<details>	
+  <summary><b>Thx to (Github account)</b></summary><br>
+<div align="center">
+
+![rudrabarad](https://github.com/alsiam)
+
+![rudrabarad](https://github.com/rudrabarad)
+
+![kefranabg](https://github.com/kefranabg)
+
+![rahuldkjain](https://github.com/rahuldkjain)
+
+![ryo-ma](https://github.com/ryo-ma)
+</div>  
+</details>
+
+
+
+
+##
+<link href='/...../css/font-awesome.min.css' rel='stylesheet' type='text/css'/>
+<link href='//stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' rel='stylesheet' type='text/css'/>
+Made with 💞<svg height="20" viewBox="0 0 24 24" width="20"><path d="M12,21.35L10.55,20.03C5.4,15.36 2,12.27 2,8.5C2,5.41 4.42,3 7.5,3C9.24,3 10.91,3.81 12,5.08C13.09,3.81 14.76,3 16.5,3C19.58,3 22,5.41 22,8.5C22,12.27 18.6,15.36 13.45,20.03L12,21.35Z" fill="#B71C1C"></path></svg> Powered by GitHub<svg height="20" viewBox="0 0 24 24" width="20"><path d="M12,21.35L10.55,20.03C5.4,15.36 2,12.27 2,8.5C2,5.41 4.42,3 7.5,3C9.24,3 10.91,3.81 12,5.08C13.09,3.81 14.76,3 16.5,3C19.58,3 22,5.41 22,8.5C22,12.27 18.6,15.36 13.45,20.03L12,21.35Z" fill="#B71C1C"></path></svg>
