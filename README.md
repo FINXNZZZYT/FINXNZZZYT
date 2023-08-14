@@ -2,7 +2,8 @@
 
 <img align="center" src='https://github.com/FINXNZZZYT/FINXNZZZYT/blob/main/githubpagefn.gif' alt="FINXNZZZYT"></img>
 
-![wakatime](https://github.com/FINXNZZZYT/FINXNZZZYT/blob/main/time.jpg)  <a href="https://komarev.com/ghpvc/?username=FINXNZZZYT">
+![wakatime](https://github.com/FINXNZZZYT/FINXNZZZYT/blob/main/time.jpg)
+  <a href="https://komarev.com/ghpvc/?username=FINXNZZZYT">
   <img align="right" src="https://github.com/FINXNZZZYT/FINXNZZZYT/blob/main/visitorgithub.jpg" alt="Profile visitor" />
 </a>
 
