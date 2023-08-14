@@ -14,6 +14,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
+![Discourse Community](https://img.shields.io/badge/discourse-community-brightgreen.svg?style=flat)
+![Discord Server](https://discordapp.com/api/guilds/324979738533822464/embed.png)
+
+
 <p align="center">
   <a href="https://github.com/FINXNZZZYT"><img src="https://readme-typing-svg.herokuapp.com/?lines=Apa%20Coba%20😁;Aku%20Mah%20Pemula🥺;Ajarin%20Aku%20Dong%20puh%20sepuh🥺&center=true&width=380&height=45"></a>
 </p>
