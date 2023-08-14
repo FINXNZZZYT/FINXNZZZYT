@@ -78,7 +78,7 @@
 ```json
 https://youtube.com/@FINXNZZZYT 😁
 ```
-```java
+```python
 https://youtube.com/@FINXNZZZYT 😁
 ```
 
