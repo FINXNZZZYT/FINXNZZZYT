@@ -160,12 +160,8 @@ Bener ga bang? ya ga lah😁
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/@FINXNZZZYT"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="@FINXNZZZYT" /></a><a href="https://ko-fi.com/@FINXNZZZYT"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="@FINXNZZZYT" /></a></p><br><br>
 
-
-
-
-
 <details>	
-  <summary><b>Blogs</b></summary><br>
+  <align="left"><summary><b>Blogs</b></summary><br>
 
   [![](https://img.shields.io/badge/GFG-How_to_Install_Oracle_Database_11g_on_Windows-%231DBF73.svg?&style=flat&logoColor=white)](https://www.geeksforgeeks.org/how-to-install-oracle-database-11g-on-windows/)
   [![](https://img.shields.io/badge/Medium-GitHub_CLI_is_out_of_Beta-%23ffffff.svg?&style=flat&logoColor=white)](https://medium.com/@rudra.barad/github-cli-is-out-of-beta-b610470fdef6)
