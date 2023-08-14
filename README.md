@@ -177,7 +177,7 @@ Bener ga bang? ya ga lah😁
 
 <details>	
   <summary><b>GitHub Stats</b></summary>
-<img width="52%" src="https://github-readme-stats.vercel.app/api?username=FINXNZZZYT&count_private=true&show_icons=truehow_icons=true&hide_border=true" />
+<img width="52%" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=FINXNZZZYT&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=FINXNZZZYT&hide_border=true&dates=478AF0&ring=478AF0&fire=DD2727&currStreakLabel=DD2727"/>  <br>
   
 Some Advance Stats about my GitHub Profile - https://gitstats.me/FINXNZZZYT<br>
