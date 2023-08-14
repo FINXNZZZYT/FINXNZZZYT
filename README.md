@@ -14,8 +14,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
-![Discourse Community](https://img.shields.io/badge/discourse-community-brightgreen.svg?style=flat)
-![Discord Server](https://discordapp.com/api/guilds/324979738533822464/embed.png)
 
 
 <p align="center">
@@ -23,6 +21,10 @@
 </p>
 
 <h3 align="center">「 Pemula Bang😁😋 」</h3>
+
+![Discourse Community](https://img.shields.io/badge/discourse-community-brightgreen.svg?style=flat)
+![Discord Server](https://discordapp.com/api/guilds/324979738533822464/embed.png)
+
 
 ### link:
 
